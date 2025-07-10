@@ -311,7 +311,6 @@
                           </ActivityAction.Argument>
                           <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="468,285.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_9">
                             <Sequence.Variables>
-                              <Variable x:TypeArguments="x:String" Name="Files" />
                               <Variable x:TypeArguments="x:String" Name="Value" />
                             </Sequence.Variables>
                             <sap:WorkflowViewStateService.ViewState>
